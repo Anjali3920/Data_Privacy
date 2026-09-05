@@ -78,6 +78,6 @@ The PIA identifies several privacy risks related to data collection, tracking, t
 
 Overall Privacy Impact: Medium
 ## References
-LeetCode Privacy Policy: https://leetcode.com/privacy/
-LeetCode Terms of Service: https://leetcode.com/terms/
-LeetCode Website: https://leetcode.com/
+.LeetCode Privacy Policy: https://leetcode.com/privacy/
+.LeetCode Terms of Service: https://leetcode.com/terms/
+.LeetCode Website: https://leetcode.com/
