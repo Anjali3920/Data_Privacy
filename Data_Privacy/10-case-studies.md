@@ -154,6 +154,7 @@ Breach Response
 Ethical Considerations
       ↓
 Real-World Case Studies
+```
 Together, these concepts provide a complete view of data privacy from risk identification to protection and incident management.
 
 ## Recommendations
