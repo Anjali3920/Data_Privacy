@@ -97,56 +97,46 @@ Important ethical considerations include:
 - Avoiding unnecessary exposure of user-generated information.
 - Using user data responsibly for analytics and service improvement.
 
-## Ethical vs Legal Compliance
-
-Following privacy laws does not always mean that an organization's practices are automatically ethical.
-
-For example:
-
-```text
-Legal Requirement
-       ↓
-Minimum required level of compliance
-       ↓
-Ethical Responsibility
-       ↓
-Greater focus on fairness, transparency and user trust
 An organization should therefore aim to go beyond minimum legal requirements when doing so can provide better protection for users.
 
 ## Ethical Decision-Making Framework
 
 Before collecting or processing personal information, an organization can ask:
 
-Is the data necessary?
-Is the purpose clearly explained?
-Would users reasonably expect this use?
-Can the same goal be achieved with less personal data?
-Who could be affected by this decision?
-Are appropriate security measures in place?
-Can the organization explain and justify the decision?
+- Is the data necessary?
+- Is the purpose clearly explained?
+- Would users reasonably expect this use?
+- Can the same goal be achieved with less personal data?
+- Who could be affected by this decision?
+- Are appropriate security measures in place?
+- Can the organization explain and justify the decision?
+
 ## Recommendations
-Follow the principles of transparency and fairness.
-Collect only necessary personal information.
-Obtain appropriate consent when required.
-Clearly communicate data-processing purposes.
-Protect personal information using suitable security controls.
-Avoid unnecessary tracking and data sharing.
-Regularly review data retention practices.
-Evaluate automated systems for bias and unfair outcomes.
-Give users meaningful privacy controls.
-Build privacy considerations into system design from the beginning.
+
+- Follow the principles of transparency and fairness.
+- Collect only necessary personal information.
+- Obtain appropriate consent when required.
+- Clearly communicate data-processing purposes.
+- Protect personal information using suitable security controls.
+- Avoid unnecessary tracking and data sharing.
+- Regularly review data retention practices.
+- Evaluate automated systems for bias and unfair outcomes.
+- Give users meaningful privacy controls.
+- Build privacy considerations into system design from the beginning.
 
 ## Conclusion
 
-Ethical data privacy requires organizations to treat personal information responsibly and respect the rights and expectations of individuals.
-Principles such as transparency, consent, data minimization, purpose limitation, fairness, confidentiality, and user control help organizations make responsible decisions.
+Ethical data privacy requires organizations to treat personal information responsibly and respect the rights and expectations of individuals. 
+
+Principles such as transparency, consent, data minimization, purpose limitation, fairness, confidentiality, and user control help organizations make responsible decisions. 
+
 For platforms such as LeetCode, combining ethical principles with legal compliance and technical security measures can improve user trust and reduce privacy risks.
 
-Overall Importance: Very High
+**Overall Importance:** Very High
+
 ## References
-NIST Privacy Framework: https://www.nist.gov/privacy-framework
-NIST AI Risk Management Framework: https://www.nist.gov/itl/ai-risk-management-framework
-LeetCode Privacy Policy: https://leetcode.com/privacy/
-LeetCode Terms of Service: https://leetcode.com/terms/
 
-
+- NIST Privacy Framework: https://www.nist.gov/privacy-framework
+- NIST AI Risk Management Framework: https://www.nist.gov/itl/ai-risk-management-framework
+- LeetCode Privacy Policy: https://leetcode.com/privacy/
+- LeetCode Terms of Service: https://leetcode.com/terms/
